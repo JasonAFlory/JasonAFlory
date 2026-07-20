@@ -6,6 +6,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/jason-flory-6aa68389/)
 
+## Selected work
+
+- [governed-autonomy](https://github.com/JasonAFlory/governed-autonomy) — Reference architecture for running autonomous multi-agent systems under enforceable epistemic and safety governance
+
 ## Open-source endpoint tooling
 
 | Tool | Language | What it does |
