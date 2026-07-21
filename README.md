@@ -10,7 +10,6 @@
 
 - **[governed-autonomy](https://github.com/JasonAFlory/governed-autonomy)** — Reference architecture for running autonomous multi-agent systems under enforceable epistemic and safety governance.
 - **[jarvis](https://github.com/JasonAFlory/jarvis)** — an autonomous evidence-investigation engine that runs bounded search passes on a schedule until it stops finding anything new, then states plainly where the evidence runs out.
-- **CertAlert** — a compliance-renewal tracking product for UK care/healthcare providers: role-based requirement rules, a renewal pipeline, and an audit log built for inspection-readiness. Built solo to near-release, then shelved before launch for distribution/marketing reasons, not technical ones — not yet public, ask me to walk through it. One of several SaaS products I built solo in the same stretch — a photographer licensing platform, a retail-investor research tool, an internal marketing-ops tool with an LLM-drafted-reply feature; one of them (the retail-investor tool) went fully live with Stripe billing before I hit the same go-to-market wall. Real, built products, not abandoned prototypes.
 
 ## How I build with AI
 
