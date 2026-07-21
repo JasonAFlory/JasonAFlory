@@ -1,6 +1,6 @@
 # Jason Flory
 
-**Enterprise IT Engineer & AI Systems Builder** | 15 years regulated-scale Apple/Jamf endpoint · Governed AI-assisted development · Compliance
+**Enterprise IT Engineer & AI Automation Specialist** | 15 years regulated-scale Apple/Jamf endpoint · Governed AI-assisted development · Compliance
 
 15+ years building secure, audit-ready Apple platforms in regulated environments — grew a global Mac estate from 1,500 to 8,000+ devices across 80+ sites (Hogarth Worldwide/WPP), including a Jamf Cloud migration and estate-wide SOC 2 compliance support. The same discipline — make the system honest about its own state, so nothing goes dark and nothing gets away with lying about its status — is what I now apply to building AI systems: shipped products, governed autonomous agents, and internal tools built with Cursor and Claude Code. Available now for contract or permanent work, UK-based or remote.
 
